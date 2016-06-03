@@ -1,0 +1,7 @@
+config.py
+*.pyc
+*/*.pyc
+__pycache__/
+db_repository/
+env/
+flablo/__pycache__/
