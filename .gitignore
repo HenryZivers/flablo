@@ -3,5 +3,5 @@ config.py
 */*.pyc
 __pycache__/
 db_repository/
-env/
+venv/
 flablo/__pycache__/
